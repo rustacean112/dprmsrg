@@ -1,10 +1,11 @@
 # dprmsrg
 Türkiye'deki depremler için için Kandilli Rasathanesi'nden bilgi çeken bir kabuk komut.
 
-# Nasıl indirilir
+# Nasıl İndirilir ve Kurulur?
 İlk önce:
 
     git clone https://github.com/Huso112/dprmsrg.git
+
 komutunu giriyoruz.
 
 İkinci olarak:
@@ -14,6 +15,11 @@ komutunu giriyoruz.
 komutunu yazıyoruz.
 
 # Nasıl Kullanılır?
+İlk önce:
+
+    dprmsrg
+komutunu yazalım.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNTQwNDkxNV19
+eyJoaXN0b3J5IjpbLTE1NTI2MDQ4OV19
 -->
