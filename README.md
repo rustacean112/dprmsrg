@@ -19,7 +19,7 @@ komutunu yazıyoruz.
 
     dprmsrg
 komutunu yazalım.
-
+sonra 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTI2MDQ4OV19
+eyJoaXN0b3J5IjpbLTY0Mjc5NzQ4MF19
 -->
