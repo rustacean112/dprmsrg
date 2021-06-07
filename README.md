@@ -1,5 +1,8 @@
 # dprmsrg
-Türkiye'deki depremler için için Kandilli Rasathanesi'nden bilgi çeken ka
+Türkiye'deki depremler için için Kandilli Rasathanesi'nden bilgi çeken bir kabuk komut.
+
+# Nasıl indirilir
+İlk önce
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk5OTE1ODQ2XX0=
+eyJoaXN0b3J5IjpbMjI5NTkwODg2XX0=
 -->
