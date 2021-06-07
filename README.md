@@ -18,8 +18,7 @@ komutunu yazıyoruz.
 İlk önce:
 
     dprmsrg
-komutunu yazalım.
-sonra 
+komutunu yazalım. Sonra da sizden bir il ismi isteyecektir. Eğer iliniz varsa ilinizin sorgulama anına kadarki sorgulamayı yaptığınız anda listede yoksa boş bir mesaj alacaksınız. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0Mjc5NzQ4MF19
+eyJoaXN0b3J5IjpbLTI3MzY4NTY3OF19
 -->
