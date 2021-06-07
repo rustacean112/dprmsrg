@@ -1,5 +1,6 @@
 # dprmsrg
 Türkiye'deki depremler için için Kandilli Rasathanesi'nden bilgi çeken bir kabuk komut.
+
 Şimdiden uyarayım ki bu bir acemi tarafından yazıldı.
 
 # Nasıl İndirilir ve Kurulur?
@@ -23,5 +24,5 @@ komutunu yazalım. Sonra da sizden bir il ismi isteyecektir. Eğer iliniz varsa 
 
 Eğer takıldığınız bir yer olursa sorun başlığı açarsınız.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTAwNzkxMTJdfQ==
+eyJoaXN0b3J5IjpbLTE2MzAxOTEzODZdfQ==
 -->
