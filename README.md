@@ -3,7 +3,8 @@ Türkiye'deki depremler için için [Kandilli Rasathanesi'nden](http://www.koeri
 
 Şimdiden uyarayım ki bu bir acemi tarafından yazıldı.
 Çalışması için gerekenler:
-uconv, w3m 
+
+    grep, awk, echo, printf, uconv, w3m 
 
 # Nasıl İndirilir ve Kurulur?
 İlk önce:
@@ -26,6 +27,6 @@ komutunu yazalım. Sonra da sizden bir il ismi isteyecektir. Eğer iliniz varsa 
 
 Eğer takıldığınız bir yer olursa sorun başlığı açarsınız.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODUyNzQwNDgsMjg1OTU1OTk3LC0xNj
-MwMTkxMzg2XX0=
+eyJoaXN0b3J5IjpbLTU0MDU2NDc1MywyODU5NTU5OTcsLTE2Mz
+AxOTEzODZdfQ==
 -->
