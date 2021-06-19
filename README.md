@@ -2,7 +2,8 @@
 Türkiye'deki depremler için için [Kandilli Rasathanesi'nden](http://www.koeri.boun.edu.tr/scripts/lst8.asp) bilgi çeken bir kabuk komut.
 
 Şimdiden uyarayım ki bu bir acemi tarafından yazıldı.
-Çalışması için gerekenler
+Çalışması için gerekenler:
+uconv, w3m 
 
 # Nasıl İndirilir ve Kurulur?
 İlk önce:
@@ -25,6 +26,6 @@ komutunu yazalım. Sonra da sizden bir il ismi isteyecektir. Eğer iliniz varsa 
 
 Eğer takıldığınız bir yer olursa sorun başlığı açarsınız.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MDYzMDY1NiwyODU5NTU5OTcsLTE2Mz
-AxOTEzODZdfQ==
+eyJoaXN0b3J5IjpbLTE3ODUyNzQwNDgsMjg1OTU1OTk3LC0xNj
+MwMTkxMzg2XX0=
 -->
