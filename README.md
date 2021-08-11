@@ -5,6 +5,7 @@ Türkiye'deki depremler için için [Kandilli Rasathanesi'nden](http://www.koeri
 Çalışması için gerekenler:
 
     grep, awk, echo, printf, uconv, w3m 
+NOT: uconv, debian'da ´icu-devtools´'un içindedir.    
 
 # Nasıl İndirilir ve Kurulur?
 İlk önce:
